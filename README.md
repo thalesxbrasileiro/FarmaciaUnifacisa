@@ -1,7 +1,7 @@
 # Projeto CRUD em Java com JDBC e PostgreSQL - Universidade
 Este é um projeto desenvolvido na Universidade em linguagem Java que implementa um sistema CRUD (Create, Read, Update, Delete) integrado com um banco de dados PostgreSQL utilizando JDBC (Java Database Connectivity). O objetivo do projeto é demonstrar a construção de uma aplicação que realiza operações básicas de gerenciamento de dados em um banco de dados relacional.
 
-__Obs.:__O projeto só possui o backend, todavia, é possível fazer todas as operações do CRUD via console (foi criado um menu nele). 
+__Obs.:__ O projeto só possui o backend, todavia, é possível fazer todas as operações do CRUD via console (foi criado um menu nele). 
 
 ### Funcionalidades
 O projeto CRUD possui as seguintes funcionalidades:
